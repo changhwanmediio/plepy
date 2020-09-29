@@ -21,7 +21,7 @@ import {
 import {BaseStyle, Images, useTheme} from '@config';
 import * as Utils from '@utils';
 import styles from './styles';
-import {PromotionData, TourData, HotelData} from '@data';
+import {PromotionData, TourData, plepy_meeting_list} from '@data';
 import {useTranslation} from 'react-i18next';
 
 export default function Home({navigation}) {
@@ -87,7 +87,7 @@ export default function Home({navigation}) {
   ]);
   const [promotion] = useState(PromotionData);
   const [tours] = useState(TourData);
-  const [hotels] = useState(HotelData);
+  const [hotels] = useState(plepy_meeting_list);
   const [heightHeader, setHeightHeader] = useState(Utils.heightHeader());
   const deltaY = new Animated.Value(0);
 
@@ -207,6 +207,12 @@ export default function Home({navigation}) {
               {renderIconService()}
             </View> */}
           </View>
+
+
+
+
+
+          {/*플리가 좋아하는 여행모임*/}
           <View>
             <View  style={styles.new_title_big_wrapper}>
               <View style={styles.new_title_wrapper} >
@@ -217,7 +223,8 @@ export default function Home({navigation}) {
               </View>
               <Button style={styles.new_button_all}><Text style={styles.new_button_all_text}>모두보기</Text></Button>
             </View>
-            <FlatList
+            
+            {/* <FlatList
               contentContainerStyle={{paddingLeft: 5, paddingRight: 20}}
               horizontal={true}
               showsHorizontalScrollIndicator={false}
@@ -247,8 +254,34 @@ export default function Home({navigation}) {
                   </View>
                 </Card>
               )}
-            />
+            /> */}
           </View>
+          <FlatList
+              columnWrapperStyle={{paddingLeft: 5, paddingRight: 20}}
+              numColumns={2}
+              data={hotels}
+              keyExtractor={(item, index) => item.id}
+              renderItem={({item, index}) => (
+                <HotelItem
+                  grid
+                  image={item.image}
+                  name={item.name}
+                  location={item.location}
+                  price={item.price}
+                  available={item.available}
+                  rate={item.rate}
+                  rateStatus={item.rateStatus}
+                  numReviews={item.numReviews}
+                  services={item.services}
+                  style={{marginLeft: 15, marginBottom: 15}}
+                  onPress={() => navigation.navigate('HotelDetail')}
+                />
+              )}
+            />
+
+
+
+
           {/* Hiking */}
           <View style={styles.titleView}>
             <Text title3 semibold>
@@ -317,7 +350,7 @@ export default function Home({navigation}) {
             <Image source={Images.banner1} style={styles.promotionBanner} />
             <View style={[styles.line, {backgroundColor: colors.border}]} />
           </View>
-          <FlatList
+          {/* <FlatList
             columnWrapperStyle={{paddingLeft: 5, paddingRight: 20}}
             numColumns={2}
             data={hotels}
@@ -338,7 +371,7 @@ export default function Home({navigation}) {
                 onPress={() => navigation.navigate('HotelDetail')}
               />
             )}
-          />
+          /> */}
         </ScrollView>
       </SafeAreaView>
     </View>

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/changhwanchoi/Desktop/development/plepy/source/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "/Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "/Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/3302d5b9a2b6006726f814022b3f5ec7/play-services-base-17.0.0/res/values-mk/values.xml",

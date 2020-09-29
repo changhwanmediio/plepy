@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/changhwanchoi/Desktop/development/plepy/source/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
+            "outputFile": "/Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
             "map": [
                 {
                     "source": "/Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/0d530249bbd2bca4a4a8951ac189ab2d/jetified-play-services-basement-17.0.0/res/values-as/values.xml",

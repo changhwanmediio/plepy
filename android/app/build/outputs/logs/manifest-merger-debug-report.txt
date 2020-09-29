@@ -1,29 +1,29 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
-INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
-INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
-INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
+ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
 MERGED from [hermes-debug.aar] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/6597106e6449be9aeb2b99fc47ec4242/hermes-debug/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/57d493f6a247db847293bd270f514a38/flipper-0.37.0/AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/101d4580d65c039baf87b3bcf226892f/flipper-network-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/eaf8bc94a6bcb96e56d4e8808914e909/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/343974d7f800206332cd92db092ae3ab/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [:react-native-fast-image] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-community_async-storage] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-community_masked-view] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-community_viewpager] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-dark-mode] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-dark-mode/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
-MERGED from [:react-native-gesture-handler] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-maps] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
-MERGED from [:react-native-reanimated] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-restart] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-restart/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-safe-area-context] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-screens] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-splash-screen] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [:react-native-vector-icons] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:rn-range-slider] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/rn-range-slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.63.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/17e37b5d0bb3c29235ad96cd919221f0/jetified-react-native-0.63.2/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-fast-image] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_async-storage] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_viewpager] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-dark-mode] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-dark-mode/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-gesture-handler] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-reanimated] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-restart] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-restart/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:rn-range-slider] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/rn-range-slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/ee049b2984db59b07c8d9edece5fc906/jetified-react-native-0.63.2/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/96b8fba13527eb0917d6ea4e2e878ae1/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.troZee:ViewPager2:v1.0.6] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/7c48ee783933de10bd8669eba53c5f7c/ViewPager2-v1.0.6/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.1.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/6ff9aa3a504cc9b0d6634a1ac1c5c1fd/material-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -82,45 +82,45 @@ MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/changhwancho
 MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/ad381b8799877e5b04e961412fb3761f/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/706cbeafb6dd3dbf7c047b123ec4332a/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/8d79030bef320f2f31c559fa668750c3/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
-INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
-INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
 	package
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:2:3-25
-		INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
-		INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
-		INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/57d493f6a247db847293bd270f514a38/flipper-0.37.0/AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/57d493f6a247db847293bd270f514a38/flipper-0.37.0/AndroidManifest.xml:15:5-67
-MERGED from [:react-native-maps] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:react-native-maps] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/8497ff5b2149d5b46e1d9e309e84e898/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/8497ff5b2149d5b46e1d9e309e84e898/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:5:5-77
+ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:5:22-75
 application
-ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:7:5-29:19
-MERGED from [:react-native-dark-mode] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-dark-mode/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
-MERGED from [:react-native-dark-mode] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-dark-mode/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
-MERGED from [:react-native-splash-screen] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
-MERGED from [:react-native-splash-screen] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
-MERGED from [com.facebook.react:react-native:0.63.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/17e37b5d0bb3c29235ad96cd919221f0/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.63.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/17e37b5d0bb3c29235ad96cd919221f0/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:7:5-29:19
+MERGED from [:react-native-dark-mode] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-dark-mode/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-dark-mode] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-dark-mode/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-splash-screen] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/ee049b2984db59b07c8d9edece5fc906/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/ee049b2984db59b07c8d9edece5fc906/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/6ff9aa3a504cc9b0d6634a1ac1c5c1fd/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/6ff9aa3a504cc9b0d6634a1ac1c5c1fd/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/d7deb2b5168384107b0e336f7baf3ffe/soloader-0.8.2/AndroidManifest.xml:11:5-20
@@ -154,53 +154,53 @@ MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/changhwanchoi/.gradl
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/ec2ca510f42b5c4cbc9ad8e3c730dd85/core-1.3.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:icon
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:10:7-41
 	android:allowBackup
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:13:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:12:7-42
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:12:7-42
 	android:name
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:8:7-38
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:14:7-16:64
+ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:14:7-16:64
 	android:value
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:16:7-62
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:16:7-62
 	android:name
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:15:7-52
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:15:7-52
 activity#com.felixpro.MainActivity
-ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:17:7-27:18
+ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:17:7-27:18
 	android:label
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:19:9-41
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:19:9-41
 	android:launchMode
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:21:9-40
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:21:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:22:9-51
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:22:9-51
 	android:configChanges
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:20:9-86
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:20:9-86
 	android:name
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:18:9-37
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:18:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:23:9-26:25
+ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:23:9-26:25
 action#android.intent.action.MAIN
-ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:24:13-65
+ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:24:13-65
 	android:name
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:24:21-62
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:24:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:25:13-73
+ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:25:13-73
 	android:name
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:25:23-70
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:25:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:28:7-84
+ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:28:7-84
 	android:name
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml:28:17-81
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml:28:17-81
 uses-sdk
-INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
 MERGED from [hermes-debug.aar] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/6597106e6449be9aeb2b99fc47ec4242/hermes-debug/AndroidManifest.xml:5:5-44
 MERGED from [hermes-debug.aar] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/6597106e6449be9aeb2b99fc47ec4242/hermes-debug/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.flipper:flipper:0.37.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/57d493f6a247db847293bd270f514a38/flipper-0.37.0/AndroidManifest.xml:11:5-13:41
@@ -211,36 +211,36 @@ MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/changhwan
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/eaf8bc94a6bcb96e56d4e8808914e909/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/343974d7f800206332cd92db092ae3ab/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/343974d7f800206332cd92db092ae3ab/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [:react-native-fast-image] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-fast-image] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-community_async-storage] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_async-storage] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_masked-view] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_masked-view] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_viewpager] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_viewpager] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-dark-mode] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-dark-mode/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-dark-mode] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-dark-mode/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-maps] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-maps] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-reanimated] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-restart] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-restart/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-restart] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-restart/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-safe-area-context] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-screens] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-splash-screen] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-splash-screen] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:rn-range-slider] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/rn-range-slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:rn-range-slider] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/rn-range-slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.63.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/17e37b5d0bb3c29235ad96cd919221f0/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.63.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/17e37b5d0bb3c29235ad96cd919221f0/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_async-storage] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_viewpager] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_viewpager] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-dark-mode] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-dark-mode/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-dark-mode] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-dark-mode/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-restart] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-restart/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-restart] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-restart/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-range-slider] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/rn-range-slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-range-slider] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/rn-range-slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/ee049b2984db59b07c8d9edece5fc906/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/ee049b2984db59b07c8d9edece5fc906/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/96b8fba13527eb0917d6ea4e2e878ae1/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/96b8fba13527eb0917d6ea4e2e878ae1/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.github.troZee:ViewPager2:v1.0.6] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/7c48ee783933de10bd8669eba53c5f7c/ViewPager2-v1.0.6/AndroidManifest.xml:7:5-9:41
@@ -357,24 +357,24 @@ MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/changhwanchoi/.gradle/cach
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/706cbeafb6dd3dbf7c047b123ec4332a/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/8d79030bef320f2f31c559fa668750c3/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/8d79030bef320f2f31c559fa668750c3/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
-INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/changhwanchoi/Desktop/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.37.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/57d493f6a247db847293bd270f514a38/flipper-0.37.0/AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.37.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/57d493f6a247db847293bd270f514a38/flipper-0.37.0/AndroidManifest.xml:16:22-73
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from [:react-native-maps] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+ADDED from [:react-native-maps] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from [:react-native-maps] /Users/changhwanchoi/Desktop/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+		ADDED from [:react-native-maps] /Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/8497ff5b2149d5b46e1d9e309e84e898/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
 	android:name

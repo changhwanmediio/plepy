@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/changhwanchoi/Desktop/development/plepy/source/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml",
+            "outputFile": "/Users/changhwanchoi/Desktop/design_mediio/development/plepy/source/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml",
             "map": [
                 {
                     "source": "/Users/changhwanchoi/.gradle/caches/transforms-2/files-2.1/50c2f1e9e238f6f3402c8c40d454356e/appcompat-1.2.0/res/values-is/values-is.xml",

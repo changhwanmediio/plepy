@@ -160,6 +160,7 @@ export default StyleSheet.create({
   new_title_big_wrapper: {
     flexDirection: 'row',
     justifyContent:'space-between',
-    paddingRight: 20
+    paddingRight: 20,
+    marginBottom: 15
   }
 });
