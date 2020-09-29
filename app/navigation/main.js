@@ -2,9 +2,9 @@ import React from 'react';
 import {createStackNavigator} from '@react-navigation/stack';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import {useSelector} from 'react-redux';
-import {BaseColor, useTheme, useFont} from '@config';
+import {BaseColor, useTheme, useFont, Images} from '@config';
 import {useTranslation} from 'react-i18next';
-import {Icon} from '@components';
+import {Icon, Image} from '@components';
 /* Stack Screen */
 import Profile1 from '@screens/Profile1';
 import Profile2 from '@screens/Profile2';
@@ -195,9 +195,9 @@ function BottomTabNavigator() {
         name="Home"
         component={Home}
         options={{
-          title: t('home'),
+          title: t(' '),
           tabBarIcon: ({color}) => {
-            return <Icon color={color} name="home" size={20} solid />;
+            return <Image source={Images.new_icon_10_01} style={{width:22, height: 22, marginTop:15}} />  /* <Icon color={color} name="home" size={20} solid /> */;
           },
         }}
       />
@@ -205,9 +205,9 @@ function BottomTabNavigator() {
         name="Booking"
         component={Booking}
         options={{
-          title: t('booking'),
+          title: t(' '),
           tabBarIcon: ({color}) => {
-            return <Icon color={color} name="bookmark" size={20} solid />;
+            return <Image source={Images.new_icon_11} style={{width:22, height: 22, marginTop:15}} />  /* <Icon color={color} name="bookmark" size={20} solid /> */;
           },
         }}
       />
@@ -215,9 +215,9 @@ function BottomTabNavigator() {
         name="Messenger"
         component={Messenger}
         options={{
-          title: t('message'),
+          title: t(' '),
           tabBarIcon: ({color}) => {
-            return <Icon solid color={color} name="envelope" size={20} solid />;
+            return <Image source={Images.new_icon_12} style={{width:22, height: 22, marginTop:15}} />  /* <Icon solid color={color} name="envelope" size={20} solid /> */;
           },
         }}
       />
@@ -225,9 +225,9 @@ function BottomTabNavigator() {
         name="Post"
         component={Post}
         options={{
-          title: t('news'),
+          title: t(' '),
           tabBarIcon: ({color}) => {
-            return <Icon color={color} name="copy" size={20} solid />;
+            return <Image source={Images.new_icon_13} style={{width:22, height: 22, marginTop:15}} />  /* <Icon color={color} name="copy" size={20} solid /> */;
           },
         }}
       />
@@ -235,9 +235,9 @@ function BottomTabNavigator() {
         name="Profile"
         component={login ? Profile : Walkthrough}
         options={{
-          title: t('account'),
+          title: t(' '),
           tabBarIcon: ({color}) => {
-            return <Icon solid color={color} name="user-circle" size={20} />;
+            return <Image source={Images.new_icon_14} style={{width:22, height: 22, marginTop:15}} />  /* <Icon solid color={color} name="user-circle" size={20} /> */;
           },
         }}
       />

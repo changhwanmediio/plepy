@@ -47,7 +47,7 @@ export default StyleSheet.create({
     marginBottom: 10,
   },
   promotionBanner: {
-    height: Utils.scaleWithPixel(100),
+    height: Utils.scaleWithPixel(75),
     width: '100%',
     marginTop: 10,
   },
@@ -162,5 +162,10 @@ export default StyleSheet.create({
     justifyContent:'space-between',
     paddingRight: 20,
     marginBottom: 15
+  },
+  new_gray_line: {
+    borderBottomColor: '#f6f6f6',
+    borderBottomWidth: 10,
+    marginTop: 30,
   }
 });

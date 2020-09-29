@@ -4,7 +4,7 @@ const HotelData = [
   {
     id: "1",
     image: Images.room1,
-    name: "Boston Hotel",
+    name: "영월 월령모임",
     location: "553 Gislason Radial",
     price: "$125",
     available: "Book 2 nights get free Breakfast",
@@ -24,7 +24,7 @@ const HotelData = [
   {
     id: "2",
     image: Images.room2,
-    name: "Brisbane Hotel",
+    name: "속초 치맥파뤼",
     location: "623 Cathrine Port",
     price: "$199",
     available: "Book 2 nights get free Breakfast",
@@ -44,7 +44,7 @@ const HotelData = [
   {
     id: "3",
     image: Images.room3,
-    name: "Seattle Hotel",
+    name: "자라섬 재즈패스티벌",
     location: "303 Natasha Manors",
     price: "$399",
     available: "Book 2 nights get free Breakfast",
@@ -64,7 +64,7 @@ const HotelData = [
   {
     id: "4",
     image: Images.room4,
-    name: "Chengdu Hotel",
+    name: "제주 게하모임",
     location: "19 Jennie Route",
     price: "$399",
     available: "Only 4 rooms leaft",
@@ -84,7 +84,7 @@ const HotelData = [
   {
     id: "5",
     image: Images.room5,
-    name: "Adora Hotel",
+    name: "보령 녹차체험 모임",
     location: "43 Gust Locks Apt. 725",
     price: "$499",
     available: "Only 5 rooms leaft",
@@ -104,7 +104,7 @@ const HotelData = [
   {
     id: "6",
     image: Images.room6,
-    name: "Cindy Hotel",
+    name: "동남아 계모임",
     location: "4873 Clotilde Isle",
     price: "$299",
     available: "Only 10 rooms leaft",
@@ -124,7 +124,7 @@ const HotelData = [
   {
     id: "7",
     image: Images.room7,
-    name: "Tangle Hotel",
+    name: "남산 등산모임",
     location: "4873 Nevada St",
     price: "$299",
     available: "Only 10 rooms leaft",
@@ -144,7 +144,7 @@ const HotelData = [
   {
     id: "8",
     image: Images.room8,
-    name: "Felix Hotel",
+    name: "할로윈 여행 모임",
     location: "4873 Clotilde Isle",
     price: "$299",
     available: "Only 10 rooms leaft",
@@ -164,7 +164,7 @@ const HotelData = [
   {
     id: "9",
     image: Images.room1,
-    name: "Happy Hotel",
+    name: "국토대장정 모임",
     location: "553 Gislason Radial",
     price: "$125",
     available: "Only 1 rooms leaft",
@@ -184,7 +184,7 @@ const HotelData = [
   {
     id: "10",
     image: Images.room2,
-    name: "Lucky Hotel",
+    name: "방방곳곳 모임",
     location: "623 Cathrine Port",
     price: "$199",
     available: "Only 2 rooms leaft",
@@ -204,7 +204,7 @@ const HotelData = [
   {
     id: "11",
     image: Images.room3,
-    name: "JoJo Hotel",
+    name: "여행 책모임",
     location: "303 Natasha Manors",
     price: "$399",
     available: "Only 3 rooms leaft",
@@ -224,7 +224,7 @@ const HotelData = [
   {
     id: "12",
     image: Images.room4,
-    name: "Sunflower Hotel",
+    name: "바닷가 석양크루",
     location: "19 Jennie Route",
     price: "$399",
     available: "Only 4 rooms leaft",
@@ -244,7 +244,7 @@ const HotelData = [
   {
     id: "13",
     image: Images.room5,
-    name: "Indianapolis Hotel",
+    name: "여락이들 팬미팅",
     location: "43 Gust Locks Apt. 725",
     price: "$499",
     available: "Only 5 rooms leaft",
@@ -264,7 +264,7 @@ const HotelData = [
   {
     id: "14",
     image: Images.room6,
-    name: "San Jose Hotel",
+    name: "시내버시 여행모임",
     location: "4873 Clotilde Isle",
     price: "$299",
     available: "Only 10 rooms leaft",
@@ -284,7 +284,7 @@ const HotelData = [
   {
     id: "15",
     image: Images.room7,
-    name: "Twin Peaks Hotel",
+    name: "성산일출봉 일출",
     location: "4873 Clotilde Isle",
     price: "$299",
     available: "Only 10 rooms leaft",
@@ -304,7 +304,7 @@ const HotelData = [
   {
     id: "16",
     image: Images.room8,
-    name: "Clarion Hotel",
+    name: "호캉스 특별반",
     location: "4873 Clotilde Isle",
     price: "$299",
     available: "Only 10 rooms leaft",
